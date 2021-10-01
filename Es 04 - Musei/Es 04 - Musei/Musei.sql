@@ -52,3 +52,6 @@ INSERT INTO Personaggi VALUES
 ('Kha',4)
 
 */
+
+
+/*QUERY*/
