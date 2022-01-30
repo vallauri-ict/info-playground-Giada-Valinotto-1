@@ -1,0 +1,1 @@
+﻿INSERT INTO Auto VALUES('GH768OPT',100000,80000.00,'Urus','Bianco','Lamborghini','Benzina');
