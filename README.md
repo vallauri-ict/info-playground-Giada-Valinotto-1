@@ -5,7 +5,7 @@
 Repository all'interno del quale verranno caricati tutti gli esercizi a scopo didattico svolti durante l'anno scolastico 2021 - 2022
 #### Argomenti trattati:
 - [SQL](https://github.com/vallauri-ict/info-playground-Giada-Valinotto-1/tree/main/SQL)
-- [ASP.NET]()
+- [ASP.NET](https://github.com/vallauri-ict/info-playground-Giada-Valinotto-1/tree/main/WebService%20ASP.NET%20Core)
 
 Informazioni maggiormente dettagliate inerenti ai singoli esercizi sono reperibili all'interno delle cartelle che li contengono.
 
