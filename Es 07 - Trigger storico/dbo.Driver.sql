@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Driver] (
-    [number]         INT           NOT NULL,
+    [number]         INT           NOT NULL IDENTITY,
     [full_name]      VARCHAR (100) NULL,
     [country]        CHAR (2)      NOT NULL,
     [date_birth]     DATE          NULL,
