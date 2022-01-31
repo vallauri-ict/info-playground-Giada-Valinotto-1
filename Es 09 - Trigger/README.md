@@ -1,4 +1,4 @@
-ES 09 - TRIGGER
+# ES 09 - TRIGGER
 
 ### Finalità dell'esercizio
 Esercizio introduttivo finalizzato ad acquisire competenze inerenti all'uso dei Trigger in SQL.
