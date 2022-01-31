@@ -94,4 +94,5 @@ CREATE TRIGGER [dbo].[Trigger_Update]
 ```
 
 _Ultimo aggiornamento: 31/01/2022_
+
 _Stud. Valinotto Giada, classe 5B Informatica 2021/2022_
