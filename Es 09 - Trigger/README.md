@@ -1,7 +1,7 @@
 # ES 09 - TRIGGER
 
 ### Finalità dell'esercizio
-Esercizio introduttivo finalizzato ad acquisire competenze inerenti all'uso dei Trigger in SQL.
+Esercizio introduttivo finalizzato ad acquisire competenze inerenti all'uso dei [Trigger](https://docs.microsoft.com/it-it/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver15) in [SQL](https://docs.microsoft.com/it-it/sql/?view=sql-server-ver15).
 
 ### Struttura dell'esercizio
 - Tabella AUTO
