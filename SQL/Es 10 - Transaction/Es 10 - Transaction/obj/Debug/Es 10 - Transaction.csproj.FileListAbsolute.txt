@@ -1,0 +1,10 @@
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\bin\Debug\Es 10 - Transaction.exe.config
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\bin\Debug\Es 10 - Transaction.exe
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\bin\Debug\Es 10 - Transaction.pdb
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\obj\Debug\Es 10 - Transaction.csproj.AssemblyReference.cache
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\obj\Debug\Es 10 - Transaction.csproj.SuggestedBindingRedirects.cache
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\obj\Debug\Es_10___Transaction.Properties.Resources.resources
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\obj\Debug\Es 10 - Transaction.csproj.GenerateResource.cache
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\obj\Debug\Es 10 - Transaction.csproj.CoreCompileInputs.cache
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\obj\Debug\Es 10 - Transaction.exe
+C:\Users\valin\Documents\GitHub\info-playground-Giada-Valinotto-1\SQL\Es 10 - Transaction\Es 10 - Transaction\obj\Debug\Es 10 - Transaction.pdb

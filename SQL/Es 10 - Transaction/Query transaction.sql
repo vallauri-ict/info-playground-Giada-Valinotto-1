@@ -1,0 +1,20 @@
+﻿/*--- TRIGGER ---*/
+
+BEGIN TRANSACTION
+INSERT INTO Dipendenti VALUES (9, 'Velardi', 120);
+SAVE TRANSACTION Punto2
+
+INSERT INTO Dipendenti VALUES (22, 'Teleman', 800);
+SAVE TRANSACTION Punto3
+
+SELECT * FROM Dipendenti
+ROLLBACK TRANSACTION Punto2
+
+SELECT * FROM Dipendenti
+
+COMMIT
+
+/* ESECUZIONE PROCEDURA */
+
+EXEC Bonifico 1000, 1,2
+

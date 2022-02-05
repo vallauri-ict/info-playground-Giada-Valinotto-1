@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "File esterni",
+      "ColorIndex": -1
+    },
+    "97cbe427-199a-4c03-b05e-54cf431f9653": {
+      "ProjectGuid": "97cbe427-199a-4c03-b05e-54cf431f9653",
+      "DisplayName": "09-Trigger",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
